@@ -2,7 +2,7 @@
 
 ## Concurrency
 
-* [ExecutorService - 10 Tips and Tricks](https://dzone.com/articles/executorservice-10-tips-and)
+* [ExecutorService - 10 Tips and Tricks](https://dzone.com/articles/executorservice-10-tips-and)a
 
 ## Java memory model
 
@@ -17,3 +17,7 @@
 ## Architecture
 
 * [Это вопрос должен решать архитектор. Или нет?](https://habrahabr.ru/post/331104/)
+
+## DevOps
+
+* [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
