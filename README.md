@@ -32,3 +32,7 @@
 
 * [A Dockerfile for Maven-based Github projects](https://blog.frankel.ch/dockerfile-maven-based-github-projects/#gsc.tab=0)
 
+## CI/CD
+
+* [Continuous Integration fundamentals](https://aboullaite.me/continuous-integration-fundamentals/)
+
