@@ -2,7 +2,7 @@
 
 ## Concurrency
 
-* [ExecutorService - 10 Tips and Tricks](https://dzone.com/articles/executorservice-10-tips-and)a
+* [ExecutorService - 10 Tips and Tricks](https://dzone.com/articles/executorservice-10-tips-and)
 
 ## Java memory model
 
