@@ -21,3 +21,14 @@
 ## DevOps
 
 * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
+
+## Testing
+
+### Cucumber
+
+* [Руководство: Cucumber + Java](https://habrahabr.ru/post/332754/)
+
+## Docker
+
+* [A Dockerfile for Maven-based Github projects](https://blog.frankel.ch/dockerfile-maven-based-github-projects/#gsc.tab=0)
+
