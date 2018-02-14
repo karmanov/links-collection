@@ -36,3 +36,6 @@
 
 * [Continuous Integration fundamentals](https://aboullaite.me/continuous-integration-fundamentals/)
 
+## Tools
+
+* [15 Tools Java Developers Should Use After a Major Release](https://blog.takipi.com/15-tools-to-use-when-deploying-code-to-production/)
